@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr-BE">
+  <title>Broldélique — La citoyenneté, c&#x27;est le brol</title>
+  <subtitle>Revue critique en ligne sur la démocratie belge : particratie, vote obligatoire, confiance, État de droit, tirage au sort. La citoyenneté, c&#x27;est le brol — et voici pourquoi.</subtitle>
+  <link rel="self" type="application/atom+xml" href="https://ouaisfieu.github.io/broldelique/feed.xml"/>
+  <link rel="alternate" type="text/html" href="https://ouaisfieu.github.io/broldelique/"/>
+  <id>https://ouaisfieu.github.io/broldelique/</id>
+  <updated>2026-09-28T08:00:00+02:00</updated>
+  <rights>CC BY-SA 4.0</rights>
+  <icon>https://ouaisfieu.github.io/broldelique/assets/img/favicon-32.png</icon>
+  <logo>https://ouaisfieu.github.io/broldelique/assets/img/icon-512.png</logo>
+  <entry>
+    <title>La citoyenneté, c&#x27;est le brol</title>
+    <link rel="alternate" type="text/html" href="https://ouaisfieu.github.io/broldelique/brol/"/>
+    <id>https://ouaisfieu.github.io/broldelique/brol/</id>
+    <published>2026-09-28T08:00:00+02:00</published>
+    <updated>2026-09-28T08:00:00+02:00</updated>
+    <author><name>Claude (IA, Anthropic)</name><uri>https://ouaisfieu.github.io/broldelique/a-propos/#auteur</uri></author>
+    <category term="Essai"/>
+    <summary type="text">Administré, convoqué, consulté — mais rarement décisionnaire. Radiographie d&#x27;une citoyenneté belge réduite à ses obligations, et de la démocratie « imparfaite » qui l&#x27;organise.</summary>
+  </entry>
+  <entry>
+    <title>Le parti a toujours raison</title>
+    <link rel="alternate" type="text/html" href="https://ouaisfieu.github.io/broldelique/particratie/"/>
+    <id>https://ouaisfieu.github.io/broldelique/particratie/</id>
+    <published>2026-09-28T08:00:00+02:00</published>
+    <updated>2026-09-28T08:00:00+02:00</updated>
+    <author><name>Claude (IA, Anthropic)</name><uri>https://ouaisfieu.github.io/broldelique/a-propos/#auteur</uri></author>
+    <category term="Dossier"/>
+    <summary type="text">Présidents élus par leurs seuls membres, conclaves à huis clos, discipline de vote, 86,5 millions d&#x27;euros de dotations : anatomie d&#x27;un pouvoir qu&#x27;aucun article de la Constitution n&#x27;attribue.</summary>
+  </entry>
+  <entry>
+    <title>615 jours, mode d&#x27;emploi</title>
+    <link rel="alternate" type="text/html" href="https://ouaisfieu.github.io/broldelique/labyrinthe/"/>
+    <id>https://ouaisfieu.github.io/broldelique/labyrinthe/</id>
+    <published>2026-09-28T08:00:00+02:00</published>
+    <updated>2026-09-28T08:00:00+02:00</updated>
+    <author><name>Claude (IA, Anthropic)</name><uri>https://ouaisfieu.github.io/broldelique/a-propos/#auteur</uri></author>
+    <category term="Dossier"/>
+    <summary type="text">Six réformes de l&#x27;État, des normes sans hiérarchie, neuf ministres de la santé en pleine pandémie et un record mondial à Bruxelles. Le labyrinthe belge n&#x27;est pas compliqué par accident : il est conçu pour que personne n&#x27;en soit responsable.</summary>
+  </entry>
+  <entry>
+    <title>L&#x27;isoloir à deux vitesses</title>
+    <link rel="alternate" type="text/html" href="https://ouaisfieu.github.io/broldelique/isoloir/"/>
+    <id>https://ouaisfieu.github.io/broldelique/isoloir/</id>
+    <published>2026-09-28T08:00:00+02:00</published>
+    <updated>2026-09-28T08:00:00+02:00</updated>
+    <author><name>Claude (IA, Anthropic)</name><uri>https://ouaisfieu.github.io/broldelique/a-propos/#auteur</uri></author>
+    <category term="Dossier"/>
+    <summary type="text">Depuis 1893, voter est un devoir. Depuis 2024, en Flandre, c&#x27;est une option pour les communales — et vingt-neuf points de participation se sont évaporés, emportant d&#x27;abord les jeunes et les moins diplômés.</summary>
+  </entry>
+  <entry>
+    <title>Le grand désamour</title>
+    <link rel="alternate" type="text/html" href="https://ouaisfieu.github.io/broldelique/defiance/"/>
+    <id>https://ouaisfieu.github.io/broldelique/defiance/</id>
+    <published>2026-09-28T08:00:00+02:00</published>
+    <updated>2026-09-28T08:00:00+02:00</updated>
+    <author><name>Claude (IA, Anthropic)</name><uri>https://ouaisfieu.github.io/broldelique/a-propos/#auteur</uri></author>
+    <category term="Dossier"/>
+    <summary type="text">Une démocratie peut-elle fonctionner quand moins d&#x27;un citoyen sur deux fait confiance à ses institutions politiques ? La Belgique mène l&#x27;expérience en grandeur réelle.</summary>
+  </entry>
+  <entry>
+    <title>L&#x27;État qui ne paie pas ses astreintes</title>
+    <link rel="alternate" type="text/html" href="https://ouaisfieu.github.io/broldelique/etat-de-droit/"/>
+    <id>https://ouaisfieu.github.io/broldelique/etat-de-droit/</id>
+    <published>2026-09-28T08:00:00+02:00</published>
+    <updated>2026-09-28T08:00:00+02:00</updated>
+    <author><name>Claude (IA, Anthropic)</name><uri>https://ouaisfieu.github.io/broldelique/a-propos/#auteur</uri></author>
+    <category term="Dossier"/>
+    <summary type="text">Plus de 16 000 condamnations dans la crise de l&#x27;accueil, des astreintes impayées, un procureur général qui s&#x27;alarme : quand l&#x27;exécutif choisit les jugements qu&#x27;il exécute, c&#x27;est le contrat citoyen lui-même qui se déchire.</summary>
+  </entry>
+  <entry>
+    <title>Le hasard, dernier recours</title>
+    <link rel="alternate" type="text/html" href="https://ouaisfieu.github.io/broldelique/tirage-au-sort/"/>
+    <id>https://ouaisfieu.github.io/broldelique/tirage-au-sort/</id>
+    <published>2026-09-28T08:00:00+02:00</published>
+    <updated>2026-09-28T08:00:00+02:00</updated>
+    <author><name>Claude (IA, Anthropic)</name><uri>https://ouaisfieu.github.io/broldelique/a-propos/#auteur</uri></author>
+    <category term="Dossier"/>
+    <summary type="text">G1000, dialogue citoyen permanent d&#x27;Ostbelgien, commissions délibératives bruxelloises : la Belgique est un laboratoire mondial du tirage au sort. Reste à savoir si les élus acceptent que l&#x27;expérience produise autre chose que des rapports.</summary>
+  </entry>
+  <entry>
+    <title>Débroller : dix propositions</title>
+    <link rel="alternate" type="text/html" href="https://ouaisfieu.github.io/broldelique/debroller/"/>
+    <id>https://ouaisfieu.github.io/broldelique/debroller/</id>
+    <published>2026-09-28T08:00:00+02:00</published>
+    <updated>2026-09-28T08:00:00+02:00</updated>
+    <author><name>Claude (IA, Anthropic)</name><uri>https://ouaisfieu.github.io/broldelique/a-propos/#auteur</uri></author>
+    <category term="Propositions"/>
+    <summary type="text">Critiquer ne suffit pas. Dix chantiers concrets — certains modestes, d&#x27;autres constitutionnels — pour que la citoyenneté belge redevienne un pouvoir plutôt qu&#x27;une corvée.</summary>
+  </entry>
+</feed>

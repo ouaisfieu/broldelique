@@ -1,0 +1,196 @@
+{
+ "titre": "Le brol en chiffres",
+ "licence": "CC BY-SA 4.0",
+ "mise_a_jour": "2026-09-28",
+ "donnees": [
+  {
+   "indicateur": "Participation communales 2024 — Wallonie",
+   "valeur": 85.2,
+   "unite": "%",
+   "annee": 2024,
+   "zone": "Wallonie",
+   "source": "Consortium UNamur-ULB-UCLouvain-UMons-ULiège",
+   "url": "https://www.uclouvain.be/system/files/uclouvain_assetmanager/groups/cms-editors-cespol/Documents%20cespol/Rapport%20Participation%20Elections%20Communales%202024.pdf"
+  },
+  {
+   "indicateur": "Participation communales 2024 — Bruxelles",
+   "valeur": 79.6,
+   "unite": "%",
+   "annee": 2024,
+   "zone": "Région de Bruxelles-Capitale",
+   "source": "Consortium UNamur-ULB-UCLouvain-UMons-ULiège",
+   "url": "https://www.uclouvain.be/system/files/uclouvain_assetmanager/groups/cms-editors-cespol/Documents%20cespol/Rapport%20Participation%20Elections%20Communales%202024.pdf"
+  },
+  {
+   "indicateur": "Participation communales 2024 — Flandre",
+   "valeur": 63.6,
+   "unite": "%",
+   "annee": 2024,
+   "zone": "Flandre",
+   "source": "Consortium UNamur-ULB-UCLouvain-UMons-ULiège",
+   "url": "https://www.uclouvain.be/system/files/uclouvain_assetmanager/groups/cms-editors-cespol/Documents%20cespol/Rapport%20Participation%20Elections%20Communales%202024.pdf"
+  },
+  {
+   "indicateur": "Évolution participation communales 2018-2024 — Flandre",
+   "valeur": -28.9,
+   "unite": "points",
+   "annee": 2024,
+   "zone": "Flandre",
+   "source": "Consortium UNamur-ULB-UCLouvain-UMons-ULiège",
+   "url": "https://www.uclouvain.be/system/files/uclouvain_assetmanager/groups/cms-editors-cespol/Documents%20cespol/Rapport%20Participation%20Elections%20Communales%202024.pdf"
+  },
+  {
+   "indicateur": "EIU Democracy Index — score global",
+   "valeur": 7.64,
+   "unite": "/10",
+   "annee": 2024,
+   "zone": "Belgique",
+   "source": "Economist Intelligence Unit",
+   "url": "https://en.wikipedia.org/wiki/The_Economist_Democracy_Index"
+  },
+  {
+   "indicateur": "EIU — processus électoral et pluralisme",
+   "valeur": 9.58,
+   "unite": "/10",
+   "annee": 2024,
+   "zone": "Belgique",
+   "source": "Economist Intelligence Unit",
+   "url": "https://en.wikipedia.org/wiki/The_Economist_Democracy_Index"
+  },
+  {
+   "indicateur": "EIU — fonctionnement du gouvernement",
+   "valeur": 8.21,
+   "unite": "/10",
+   "annee": 2024,
+   "zone": "Belgique",
+   "source": "Economist Intelligence Unit",
+   "url": "https://en.wikipedia.org/wiki/The_Economist_Democracy_Index"
+  },
+  {
+   "indicateur": "EIU — participation politique",
+   "valeur": 5.0,
+   "unite": "/10",
+   "annee": 2024,
+   "zone": "Belgique",
+   "source": "Economist Intelligence Unit",
+   "url": "https://en.wikipedia.org/wiki/The_Economist_Democracy_Index"
+  },
+  {
+   "indicateur": "EIU — culture politique",
+   "valeur": 6.88,
+   "unite": "/10",
+   "annee": 2024,
+   "zone": "Belgique",
+   "source": "Economist Intelligence Unit",
+   "url": "https://en.wikipedia.org/wiki/The_Economist_Democracy_Index"
+  },
+  {
+   "indicateur": "EIU — libertés civiles",
+   "valeur": 8.53,
+   "unite": "/10",
+   "annee": 2024,
+   "zone": "Belgique",
+   "source": "Economist Intelligence Unit",
+   "url": "https://en.wikipedia.org/wiki/The_Economist_Democracy_Index"
+  },
+  {
+   "indicateur": "V-Dem — indice de démocratie libérale",
+   "valeur": 0.84,
+   "unite": "0-1",
+   "annee": 2019,
+   "zone": "Belgique",
+   "source": "V-Dem Institute",
+   "url": "https://www.theglobaleconomy.com/Belgium/liberal_democracy_index/"
+  },
+  {
+   "indicateur": "V-Dem — indice de démocratie libérale",
+   "valeur": 0.805,
+   "unite": "0-1",
+   "annee": 2024,
+   "zone": "Belgique",
+   "source": "V-Dem Institute",
+   "url": "https://www.theglobaleconomy.com/Belgium/liberal_democracy_index/"
+  },
+  {
+   "indicateur": "Jours sans gouvernement de plein exercice — Bruxelles 2024-2026",
+   "valeur": 615,
+   "unite": "jours",
+   "annee": 2026,
+   "zone": "Région de Bruxelles-Capitale",
+   "source": "RTBF",
+   "url": "https://www.rtbf.be/article/crise-politique-a-la-region-bruxelloise-voici-la-ligne-du-temps-du-record-mondial-sans-gouvernement-de-plein-exercice-11640556"
+  },
+  {
+   "indicateur": "Jours sans gouvernement de plein exercice — fédéral 2010-2011",
+   "valeur": 541,
+   "unite": "jours",
+   "annee": 2011,
+   "zone": "Belgique",
+   "source": "RTBF",
+   "url": "https://www.rtbf.be/article/crise-politique-a-la-region-bruxelloise-voici-la-ligne-du-temps-du-record-mondial-sans-gouvernement-de-plein-exercice-11640556"
+  },
+  {
+   "indicateur": "Satisfaction quant au fonctionnement de la démocratie",
+   "valeur": 55,
+   "unite": "%",
+   "annee": 2025,
+   "zone": "Belgique",
+   "source": "Eurobaromètre standard 104",
+   "url": "https://belgium.representation.ec.europa.eu/actualites-et-evenements/actualites/enquete-eurobarometre-les-belges-sont-globalement-satisfaits-de-leur-vie-mais-craignent-la-menace-2025-12-18_fr"
+  },
+  {
+   "indicateur": "Confiance dans les institutions politiques (indicateur)",
+   "valeur": 42.2,
+   "unite": "%",
+   "annee": 2023,
+   "zone": "Belgique",
+   "source": "ESS 2023 / IWEPS",
+   "url": "https://www.iweps.be/indicateur-statistique/confiance-politique/"
+  },
+  {
+   "indicateur": "Confiance dans les institutions politiques (indicateur)",
+   "valeur": 38.3,
+   "unite": "%",
+   "annee": 2023,
+   "zone": "Wallonie",
+   "source": "ESS 2023 / IWEPS",
+   "url": "https://www.iweps.be/indicateur-statistique/confiance-politique/"
+  },
+  {
+   "indicateur": "Condamnations judiciaires dans la crise de l'accueil depuis 2022",
+   "valeur": 16000,
+   "unite": "décisions (minimum)",
+   "annee": 2025,
+   "zone": "Belgique",
+   "source": "BX1",
+   "url": "https://bx1.be/categories/news/crise-de-laccueil-en-belgique-aneleen-van-bossuyt-defie-la-justice-frederic-van-leeuw-alerte-sur-letat-de-droit/"
+  },
+  {
+   "indicateur": "Astreintes impayées (crise de l'accueil)",
+   "valeur": 6.6,
+   "unite": "millions d'euros",
+   "annee": 2025,
+   "zone": "Belgique",
+   "source": "BX1",
+   "url": "https://bx1.be/categories/news/crise-de-laccueil-en-belgique-aneleen-van-bossuyt-defie-la-justice-frederic-van-leeuw-alerte-sur-letat-de-droit/"
+  },
+  {
+   "indicateur": "Dotations fédérales aux partis",
+   "valeur": 83.7,
+   "unite": "millions d'euros",
+   "annee": 2024,
+   "zone": "Belgique",
+   "source": "L'Avenir / Het Nieuwsblad",
+   "url": "https://www.lavenir.net/actu/belgique/politique/2026/07/18/les-partis-politiques-ont-recu-trois-millions-deuros-de-plus-quen-2024-le-financement-des-partis-est-determine-en-fonction-du-nombre-delecteurs-RVO4UNB4NRHFLIJZ7WRZPEAFLU/"
+  },
+  {
+   "indicateur": "Dotations fédérales aux partis",
+   "valeur": 86.5,
+   "unite": "millions d'euros",
+   "annee": 2025,
+   "zone": "Belgique",
+   "source": "L'Avenir / Het Nieuwsblad",
+   "url": "https://www.lavenir.net/actu/belgique/politique/2026/07/18/les-partis-politiques-ont-recu-trois-millions-deuros-de-plus-quen-2024-le-financement-des-partis-est-determine-en-fonction-du-nombre-delecteurs-RVO4UNB4NRHFLIJZ7WRZPEAFLU/"
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Broldélique</title>
+  <rect width="64" height="64" rx="12" fill="#f3c318"/>
+  <text x="30" y="50" text-anchor="middle" font-family="Charter, 'Bitstream Charter', Georgia, serif" font-weight="800" font-size="50" fill="#1b1814">b</text>
+  <rect x="41" y="8" width="16" height="16" rx="3" fill="none" stroke="#b01f2b" stroke-width="3.5" transform="rotate(12 49 16)"/>
+</svg>

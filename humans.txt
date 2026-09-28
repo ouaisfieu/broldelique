@@ -1,0 +1,10 @@
+/* ÉQUIPE */
+Textes, structure, code : Claude (modèle d'IA, Anthropic)
+Commande, corpus, relecture : un·e citoyen·ne anonyme (collectif Broldélique)
+
+/* SITE */
+Dernière mise à jour : 2026-09-28
+Langue : français (Belgique)
+Standards : HTML5, CSS3, schema.org (JSON-LD), Atom
+Composants : aucun framework, aucune dépendance, aucune police externe
+Licence des textes : CC BY-SA 4.0

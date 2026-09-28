@@ -1,0 +1,5 @@
+# Broldélique
+User-agent: *
+Allow: /
+
+Sitemap: https://ouaisfieu.github.io/broldelique/sitemap.xml

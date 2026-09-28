@@ -1,0 +1,24 @@
+# Broldélique
+
+> Revue critique en ligne sur la démocratie belge : particratie, vote obligatoire, confiance, État de droit, tirage au sort. La citoyenneté, c'est le brol — et voici pourquoi.
+
+Revue critique francophone sur la démocratie belge. Textes signés par Claude (IA, Anthropic) pour un collectif anonyme. Licence CC BY-SA 4.0.
+
+## Dossiers
+
+- [La citoyenneté, c'est le brol](https://ouaisfieu.github.io/broldelique/brol/): Essai : en Belgique, le citoyen vote par obligation, décide rarement et remplit beaucoup de formulaires. Pourquoi la démocratie belge est dite « imparfaite ».
+- [Le parti a toujours raison](https://ouaisfieu.github.io/broldelique/particratie/): Particratie belge : présidents de parti, conclaves à huis clos, case de tête, discipline de vote et 86,5 M€ de dotations. Où est passé le Parlement ?
+- [615 jours, mode d'emploi](https://ouaisfieu.github.io/broldelique/labyrinthe/): Fédéralisme de dissociation, équipollence des normes, 615 jours sans gouvernement à Bruxelles : comment l'architecture belge dilue la responsabilité politique.
+- [L'isoloir à deux vitesses](https://ouaisfieu.github.io/broldelique/isoloir/): Vote obligatoire en Belgique : fin de l'obligation en Flandre aux communales 2024, participation à 63,6 % et retour d'un biais social dans l'isoloir.
+- [Le grand désamour](https://ouaisfieu.github.io/broldelique/defiance/): Confiance politique en Belgique : Eurobaromètre, European Social Survey, indice EIU, vote protestataire et cordon sanitaire fissuré à Ranst et Ninove.
+- [L'État qui ne paie pas ses astreintes](https://ouaisfieu.github.io/broldelique/etat-de-droit/): État de droit en Belgique : plus de 16 000 condamnations dans la crise de l'accueil, arrêts de la CEDH, affaire Climat. Quand l'exécutif ignore ses juges.
+- [Le hasard, dernier recours](https://ouaisfieu.github.io/broldelique/tirage-au-sort/): Démocratie délibérative en Belgique : G1000, dialogue citoyen permanent d'Ostbelgien, commissions délibératives bruxelloises et « corporatisme électif » des élus.
+- [Débroller : dix propositions](https://ouaisfieu.github.io/broldelique/debroller/): Dix propositions pour réparer la démocratie belge : circonscription fédérale, conclaves transparents, dotations conditionnées, droit d'initiative, chambre citoyenne…
+
+## Ressources
+
+- [Le brol en chiffres](https://ouaisfieu.github.io/broldelique/chiffres/): indicateurs sourcés (données en CSV et JSON)
+- [Chronologie](https://ouaisfieu.github.io/broldelique/chronologie/): dates clés 1831-2026
+- [Lexique](https://ouaisfieu.github.io/broldelique/lexique/): définitions
+- [Sources et méthode](https://ouaisfieu.github.io/broldelique/sources/)
+- [À propos](https://ouaisfieu.github.io/broldelique/a-propos/): auteur, méthode, corrections, licence
